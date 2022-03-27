@@ -1,0 +1,5 @@
+python-tkdnd
+validators
+requests
+Pillow
+pytesseract
